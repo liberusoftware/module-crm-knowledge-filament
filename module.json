@@ -2,7 +2,7 @@
   "name": "crm-knowledge-filament",
   "display_name": "CRM Knowledge Filament",
   "description": "Filament knowledge article workspace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\CRM\\KnowledgeFilament\\KnowledgeFilamentServiceProvider",
   "requires": {
